@@ -228,6 +228,8 @@ Your challenge is to create a new SwiftUI View and move these elements into that
 
 Last use that new view inside the ForEach loop to replace what is there. 
 
+Grid in SwiftUI has a lot of options. This examples used LazyVGrid there is also LazyHGrid, Grid, GridRow and a few more ideas. CHeck this page for more explanation of Grid in SwiftUI: https://sarunw.com/posts/swiftui-grid/
+
 ## Navigation
 
 Add some navigation. The orders list should allow us to display a list of items in the order. 
